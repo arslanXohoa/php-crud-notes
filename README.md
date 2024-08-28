@@ -1,2 +1,2 @@
-# php-crud-notes
+# Php crud
 Notes taking git project
